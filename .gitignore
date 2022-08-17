@@ -2,3 +2,4 @@
 node_modules/
 
 # ignire md file
+.md
